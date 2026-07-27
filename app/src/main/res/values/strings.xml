@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pet Companion</string>
+    <string name="accessibility_service_description">Pet Companion uses this service solely to detect scroll events in short-form video apps like Instagram to count viewed reels and nudge you when your daily limit is reached. No video content or personal data is collected.</string>
+    <string name="overlay_notification_channel">Pet Companion Overlay</string>
+    <string name="overlay_notification_title">Pet Overlay Active</string>
+    <string name="overlay_notification_text">Your pet is keeping you company floating on screen.</string>
+</resources>

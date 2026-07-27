@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Paw Pad -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58 c-9,-1 -16,6 -16,14 c0,8 7,12 16,12 c9,0 16,-4 16,-12 c0,-8 -7,-15 -16,-14 z" />
+    <!-- Toe Pads -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,47 c-3.5,0 -6.5,3 -6.5,6.5 c0,3.5 3,6.5 6.5,6.5 c3.5,0 6.5,-3 6.5,-6.5 c0,-3.5 -3,-6.5 -6.5,-6.5 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,38 c-3.5,0 -6.5,3 -6.5,6.5 c0,3.5 3,6.5 6.5,6.5 c3.5,0 6.5,-3 6.5,-6.5 c0,-3.5 -3,-6.5 -6.5,-6.5 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,38 c-3.5,0 -6.5,3 -6.5,6.5 c0,3.5 3,6.5 6.5,6.5 c3.5,0 6.5,-3 6.5,-6.5 c0,-3.5 -3,-6.5 -6.5,-6.5 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71,47 c-3.5,0 -6.5,3 -6.5,6.5 c0,3.5 3,6.5 6.5,6.5 c3.5,0 6.5,-3 6.5,-6.5 c0,-3.5 -3,-6.5 -6.5,-6.5 z" />
+    <!-- Heart Accent in corner -->
+    <path
+        android:fillColor="#FFE66D"
+        android:pathData="M76,26 c-1.5,0 -2.8,0.8 -3.5,2 c-0.7,-1.2 -2,-2 -3.5,-2 c-2.2,0 -4,1.8 -4,4 c0,3.5 6.5,8 7.5,9 c1,-1 7.5,-5.5 7.5,-9 c0,-2.2 -1.8,-4 -4,-4 z" />
+</vector>

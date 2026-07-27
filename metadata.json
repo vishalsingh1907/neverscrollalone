@@ -1,0 +1,6 @@
+{
+  "name": "Pet Companion",
+  "description": "Animated floating virtual pet overlay, reel fact-checking, saved content organizer, and screen-time wellness companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
